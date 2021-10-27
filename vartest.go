@@ -10,6 +10,7 @@ var (
 )
 
 func main() {
+	//test
 	//第一种：指定变量类型，声明后若不赋值，使用默认值
 	//int 默认值0，string 默认值为空串，小数默认为 0
 	var i int
